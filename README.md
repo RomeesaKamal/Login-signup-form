@@ -6,6 +6,21 @@
 # Login-signup-form
 This project is a responsive and secure Login/Signup form designed to provide users with a seamless and intuitive authentication experience. Whether you're logging in to access your dashboard or signing up to join a community, this form ensures simplicity, efficiency, and security.
 
+- [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Setup](#setup)
+  - [Overview](#overview)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Live Demo](#-live-demo)
+  - [Continued development](#continued-development)
+  - [Author](#author)
+  - [Contributing](#-contributing)
+  - [Show your support](#show-your-support)
+  - [Acknowledgments](#acknowledgments)
+  - [ Why this is Special](#why-is-kamals-kitchen-magic-special)
+  - [License](#-license)
 
 ## 🌟 Features
 
@@ -114,7 +129,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to the Mujeeb ur Rehman for the great curriculum.
+- Thanks to the [Mujeeb ur Rehman](https://github.com/Mujeeb4582/) for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedback.
 
 
